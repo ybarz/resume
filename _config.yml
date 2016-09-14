@@ -11,9 +11,9 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Marco Ybarz"
-resume_title:                   "A web developer ready to expand his horizons."
+resume_title:                   "A web developer with ever-expanding horizons."
 resume_contact_email:
-  "ybamarco@amazon.com"
+  "marcoybarz3@gmail.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -34,9 +34,9 @@ resume_section_associations:    false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/marcoybarz"
-  resume_linkedin_url:          "https://www.linkedin.com/in/marcoybarz"
-  resume_website_url:           "http://marcoybarz.github.io"
+
+  resume_linkedin_url:          "https://www.linkedin.com/in/marco-ybarz-7806928a"
+
 
 # Design settings
 resume_theme:                   default
